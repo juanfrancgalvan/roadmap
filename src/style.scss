@@ -57,10 +57,10 @@ header {
 }
 
 .main-doc {
-  position: absolute;
+  // position: absolute;
   margin-left: 310px;
   padding: 20px;
-  margin-bottom: 110px;
+  // margin-bottom: 110px;
 }
 
 .main-doc header {
@@ -90,6 +90,10 @@ code {
   padding: 15px;
   margin: 10px;
   border-radius: 5px;
+}
+
+.footer {
+  text-align: center;
 }
 
 @media only screen and (width <= 992px) {
