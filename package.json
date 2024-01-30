@@ -1,0 +1,17 @@
+{
+  "name": "roadmap",
+  "version": "1.0.0",
+  "description": "Road Map",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Juan Francisco Galván",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^9.0.0",
+    "gulp-webp": "^5.0.0"
+  }
+}
