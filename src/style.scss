@@ -8,8 +8,6 @@
 html,
 body {
   min-width: 290px;
-  color: var(--dark-gray);
-  background-color: var(--white);
   font-family: 'Open Sans', Arial, sans-serif;
   line-height: 1.5;
 }
@@ -103,7 +101,6 @@ code {
   }
 
   .navbar {
-    background-color: var(--white);
     position: absolute;
     top: 0;
     padding: 0;
