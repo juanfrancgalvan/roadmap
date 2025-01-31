@@ -1,17 +1,26 @@
 {
-  "name": "roadmap",
+  "name": "artworks",
   "version": "1.0.0",
-  "description": "Road Map",
+  "description": "Artworks",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "type": "module",
+  "type": "commonjs",
   "author": "Juan Francisco Galván",
   "license": "ISC",
   "devDependencies": {
+    "autoprefixer": "^10.4.15",
+    "cssnano": "^6.0.1",
     "gulp": "^4.0.2",
-    "gulp-imagemin": "^9.0.0",
-    "gulp-webp": "^5.0.0"
+    "gulp-imagemin": "^7.1.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-terser-js": "^5.2.2",
+    "gulp-webp": "^4.0.1",
+    "postcss": "^8.4.28",
+    "sass": "^1.65.1"
   }
 }
