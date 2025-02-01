@@ -1,6 +1,6 @@
 # Creado por Juan Francisco Galván
 
-## Proyecto creado con HTML, CSS, SCSS y Javascript.
+## Proyecto creado con HTML y CSS.
 
 ### Contacto
 
